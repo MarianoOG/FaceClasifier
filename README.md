@@ -66,4 +66,4 @@ We got a 92.8% overall accuracy in our best result. From the confusion matrix we
 
 ## License
 
-This work is under the [MIT License](LICENSE). # FACE CLASIFIER
+This work is under the [MIT License](LICENSE).
